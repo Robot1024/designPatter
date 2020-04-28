@@ -4,7 +4,7 @@ package com.penglei.abstractFactory;
  * @author ascetic
  * @version 1.0
  * @ClassName TestAbstractFactory
- * @Description TODO
+ * @Description 抽象工厂测试
  * @date 2020-04-27 13:33
  */
 public class TestAbstractFactory {

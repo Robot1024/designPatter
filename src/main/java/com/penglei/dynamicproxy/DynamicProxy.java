@@ -28,7 +28,7 @@ public class DynamicProxy implements InvocationHandler {
     // 重写 invoke 方法{proxy 被代理类对象，
     /**
      * @Author ascetic
-     * @Description TODO
+     * @Description 动态代理 invoke 方法
      * @Date 15:41 2020-04-27
      * @Param [proxy 被代理对象, method 被调用方法, args 方法参数]
      * @return java.lang.Object
